@@ -1,0 +1,48 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+  margin: 7% 15%;
+  color: #4ECCA3;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: bold;
+  padding-bottom: 2rem;
+  text-shadow: 5px 5px black;
+}
+
+h2 {
+  font-family: 'Merienda', cursive;
+  font-size: 1.7rem;
+}
+h3 {
+  font-family: 'Merienda', cursive;
+  font-size: 0.6rem;
+  color: #fff;
+}
+img {
+  width: 5rem;
+
+}
+
+footer {
+font-size: 1rem;
+}
+
+.container {
+  padding-bottom: 2.8rem;
+}
+
+.credit-dice {
+  width: 1.5rem;
+  margin: auto 10px;
+  transform: rotate(45deg);
+}
+
+.credit {
+  font-size: 0.4rem;
+  padding-top: 10px;
+  color: #fff;
+}
